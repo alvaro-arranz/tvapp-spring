@@ -3,8 +3,8 @@ language: java
 jdk:
   - oraclejdk8
 
- services:
+services:
   - mongodb
 
- notifications:
+notifications:
   email: false
